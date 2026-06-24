@@ -36,11 +36,10 @@ ProjectML_Kelompok/
 ### 1. Clone Repository
 
 ```bash
-git clone https://github.com/<username>/ProjectML_Kelompok.git
+git clone https://github.com/axelsavero/ProjectML_Kelompok.git
 cd ProjectML_Kelompok
 ```
 
-> 📌 Ganti `<username>` dengan username GitHub pemilik repository.
 
 ---
 
